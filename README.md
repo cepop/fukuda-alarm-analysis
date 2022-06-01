@@ -12,11 +12,11 @@
 
 ## システム要件
 
-Package                       Version
------------------------------ ------------
-python                        3.8.12
-jupyterlab                    3.2.8
-matplotlib                    3.5.0
-numpy                         1.22.3
-pandas                        1.3.4
-seaborn                       0.11.2
+| Package                       | Version      |
+| ----------------------------  | ------------ |
+| python                        | 3.8.12 |
+| jupyterlab                    | 3.2.8 |
+| matplotlib                    | 3.5.0 |
+| numpy                         | 1.22.3 |
+| pandas                        | 1.3.4 |
+| seaborn                       | 0.11.2 |
